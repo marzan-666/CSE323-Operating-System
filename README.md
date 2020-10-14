@@ -1,2 +1,2 @@
 # CSE323-Operating-System
-# 3-way Traffic Light Controller (Aurduino Based)
+# 3-way Traffic Light Controller (Arduino Based)
